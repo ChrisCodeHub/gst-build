@@ -1,5 +1,5 @@
 [wrap-git]
 directory=gst-python
-url=https://anongit.freedesktop.org/git/gstreamer/gst-python.git
-push-url=ssh://git.freedesktop.org/git/gstreamer/gst-python
+url=https://github.com/GStreamer/gst-python.git
+push-url=https://github.com/GStreamer/gstreamer/gst-python
 revision=master
